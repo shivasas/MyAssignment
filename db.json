@@ -1,4 +1,6 @@
-    [{
+{
+    "GroupSkills": [
+    {
       "GroupId": 260113,
       "SkillId": 1
     },
@@ -11,6 +13,8 @@
       "SkillId": 1
     },
     {
-      "GroupId": 260113,
+      "GroupId": 260119,
       "SkillId": 1
-    }]
+    }
+  ]
+}
