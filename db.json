@@ -1,20 +1,112 @@
+
+   {
+"Employee":[
 {
-    "GroupSkills": [
-    {
-      "GroupId": 260113,
-      "SkillId": 1
-    },
-    {
-      "GroupId": 260115,
-      "SkillId": 1
-    },
-    {
-      "GroupId": 260117,
-      "SkillId": 1
-    },
-    {
-      "GroupId": 260119,
-      "SkillId": 1
-    }
-  ]
+"EmployeeId":1,
+"EmployeeCode":"E001",
+"FirstName":"Jhon",
+"LastName":"Smith",
+"DepartmentId":1
+},
+{
+"EmployeeId":2,
+"EmployeeCode":"E002",
+"FirstName":"Ben",
+"LastName":"Smith",
+"DepartmentId":2
+},
+{
+"EmployeeId":1,
+"EmployeeCode":"E003",
+"FirstName":"Ken",
+"LastName":"Devid",
+"DepartmentId":1
+},
+{
+"EmployeeId":1,
+"EmployeeCode":"E004",
+"FirstName":"Robert",
+"LastName":"Smith",
+"DepartmentId":2
+},
+{
+"EmployeeId":1,
+"EmployeeCode":"E005",
+"FirstName":"Mery",
+"LastName":"Smith",
+"DepartmentId":3
+},
+{
+"EmployeeId":1,
+"EmployeeCode":"E006",
+"FirstName":"Maria",
+"LastName":"Grecia",
+"DepartmentId":1
+}
+],
+"EmployeeIncentive":[
+{
+"EmployeeIncentiveId":1,
+"EmployeeId":1,
+"IncentiveMonth":"Jan",
+"IncentiveYear":2020,
+"Incentive":2000
+},
+{
+"EmployeeIncentiveId":2,
+"EmployeeId":2,
+"IncentiveMonth":"Jan",
+"IncentiveYear":2020,
+"Incentive":2000
+},
+{
+"EmployeeIncentiveId":3,
+"EmployeeId":3,
+"IncentiveMonth":"Jan",
+"IncentiveYear":2020,
+"Incentive":500
+},
+{
+"EmployeeIncentiveId":4,
+"EmployeeId":5,
+"IncentiveMonth":"Jan",
+"IncentiveYear":2020,
+"Incentive":1600
+},
+{
+"EmployeeIncentiveId":5,
+"EmployeeId":1,
+"IncentiveMonth":"Feb",
+"IncentiveYear":2020,
+"Incentive":1500
+},
+{
+"EmployeeIncentiveId":6,
+"EmployeeId":2,
+"IncentiveMonth":"Feb",
+"IncentiveYear":2020,
+"Incentive":2500
+},
+{
+"EmployeeIncentiveId":7,
+"EmployeeId":5,
+"IncentiveMonth":"Feb",
+"IncentiveYear":2020,
+"Incentive":1000
+},
+{
+"EmployeeIncentiveId":8,
+"EmployeeId":1,
+"IncentiveMonth":"Mar",
+"IncentiveYear":2020,
+"Incentive":3000
+},
+{
+"EmployeeIncentiveId":9,
+"EmployeeId":2,
+"IncentiveMonth":"Mar",
+"IncentiveYear":2020,
+"Incentive":3000
+}
+]
 }
